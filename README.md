@@ -1,8 +1,8 @@
-👋 Olá, eu sou o Marcos Alves!
-  
-    🖊️|Graduated in Production Engineering
-  
-     🖱️|Full Stack Developer Student
+👋|Olá, eu sou o Marcos Alves!
+
+🖊️|Graduated in Production Engineering
+
+🖱️ |Full Stack Developer Student
      
   <a href="https://github.com/Marcosdalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcosdalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
