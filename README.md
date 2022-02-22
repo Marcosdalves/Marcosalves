@@ -9,12 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosdalves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
      
-     
-
-
-
-
-
 <h3> Skills: </h3>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" />
@@ -24,6 +18,7 @@
 <h3>Contacts: </h3>
 <div>
 <a href="https://www.linkedin.com/in/marcos-alves-1ab481114/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+<a href="mailto:0marcosalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
   
@@ -31,6 +26,8 @@
 <p align="center"> 
 <img alingn="center" src="https://profile-counter.glitch.me/Marcosdalves/count.svg" />
 </p>
+
+
 
      
      
