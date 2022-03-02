@@ -1,6 +1,6 @@
 <img align="right" height="180" style="border-radius:170px;" src="https://user-images.githubusercontent.com/97324336/156388974-239ede59-a66f-4daa-a370-d86f73ac8208.png"  width="170px"/>
 
-  <h1 align="left"> 🖐Olá, eu sou o Marcos Alves
+  <h1 align="left"> 🖐Hello! I am Marcos Alves.
   <p><p>🖱️ Graduated in Production Engineering
   <p><p>🖊️Full Stack Developer Student!</p></h1>
   
