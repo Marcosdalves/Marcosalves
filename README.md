@@ -3,12 +3,25 @@
 🖊️|Graduated in Production Engineering
 
 🖱️ |Full Stack Developer Student
+
+
+
+  <div align="center">
+  <h2 > <p>  </h2>
+  </div>
+ 
      
   <a href="https://github.com/Marcosdalves">
   <h3> Status: </h3>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcosdalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosdalves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+
+  <div align="center">
+  <h2 > <p>  </h2>
+  </div>
      
 <h3> Skills: </h3>
 <div>
@@ -18,6 +31,11 @@
    <img src= https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white>
    <img src=  https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white>
    <img src=  https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white>
+     
+     
+  <div align="center">
+  <h2 > <p>  </h2>
+  </div>
 
 <h3>Contacts: </h3>
 <div>
@@ -25,11 +43,20 @@
 <a href="mailto:0marcosalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+     
+     
+  <div align="center">
+  <h2 > <p>  </h2>
+  </div>
   
 <p align="center"><strong> Visits </strong> since 01/27/2022 :detective: <br>
 <p align="center"> 
 <img alingn="center" src="https://profile-counter.glitch.me/Marcosdalves/count.svg" />
 </p>
+     
+     
+     
+                                                       MUITO OBRIGADO E ATÉ LOGO.
 
 
 
