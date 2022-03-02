@@ -1,13 +1,12 @@
 <img align="right" height="180" style="border-radius:170px;" src="https://user-images.githubusercontent.com/97324336/156388974-239ede59-a66f-4daa-a370-d86f73ac8208.png"  width="170px"/>
 
-👋|Olá, eu sou o Marcos Alves!
 
-🖊️|Graduated in Production Engineering
-
-🖱️ |Full Stack Developer Student
-
+👋|Olá, eu sou o Marcos Alves! <p>
+🖊️|Graduated in Production Engineering<p>
+🖱️ |Full Stack Developer Student<p>
 
 
+<br>
 
 
   <div align="center">
