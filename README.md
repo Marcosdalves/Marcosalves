@@ -1,21 +1,21 @@
 <img align="right" height="180" style="border-radius:170px;" src="https://user-images.githubusercontent.com/97324336/156388974-239ede59-a66f-4daa-a370-d86f73ac8208.png"  width="170px"/>
 
-
-👋|Olá, eu sou o Marcos Alves! <p>
-🖊️|Graduated in Production Engineering<p>
-🖱️ |Full Stack Developer Student<p>
-
-
-<br>
+  <h1 align="left"> 🖐Olá, eu sou o Marcos Alves
+  <p><p>🖱️ Graduated in Production Engineering
+  <p><p>🖊️Full Stack Developer Student!</p></h1>
+  
 
 
-  <div align="center">
-  <h2 > <p>  </h2>
-  </div>
  
      
-  <a href="https://github.com/Marcosdalves">
+  
+
+
+
   <h3> Status: </h3>
+  <div align="center">
+  
+
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcosdalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosdalves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
